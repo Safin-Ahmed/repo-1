@@ -1,2 +1,0 @@
-Hello I am branch 1!
-I only belongs to branch 1!
